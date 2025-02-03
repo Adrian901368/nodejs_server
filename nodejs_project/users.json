@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe 1",
+    "email": "john1@example.com",
+    "inbox": [
+      {
+        "id": 2,
+        "message": "Hi, im new.",
+        "sender": "john3@example.com"
+      },
+      {
+        "id": 3,
+        "message": "Another message.",
+        "sender": "john2@example.com"
+      },
+      {
+        "id": 4,
+        "message": "Another message.",
+        "sender": "john2@example.com"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "John Doe 2",
+    "email": "john2@example.com",
+    "inbox": [
+      {
+        "id": 1,
+        "message": "Hi man.",
+        "sender": "john1@example.com"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "John Doe 3",
+    "email": "john3@example.com",
+    "inbox": [
+      {
+        "id": 1,
+        "message": "Oh, I heard u new.",
+        "sender": "john2@example.com"
+      }
+    ]
+  }
+]
